@@ -1,7 +1,6 @@
 /**
  * Created by yifatbiezuner on 02/08/15.
  * This plugin for form that have multi section that added or removed by typing on specific field(termToAdd)
- * You can find usages in edit event
  * If No reorder is needed then all needed to define is termToAdd,divTemplateId
  * Optional : classDefNewSec,sectionDefType- if different from the default
  */
